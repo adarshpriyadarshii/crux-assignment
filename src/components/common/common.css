@@ -1,0 +1,14 @@
+.TopBarButton {
+  margin-left:0.6rem;
+  padding: 0.06px;
+  color: #8D8D8D;
+  font-family: Inter;
+  font-size: 0.875rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.25rem;
+  border-radius: 0.625rem;
+  border: 1px solid #F3F2FC;
+  width: 7.9375rem;
+  height: 2.5rem;
+}
